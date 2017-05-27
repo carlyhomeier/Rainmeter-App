@@ -1,5 +1,6 @@
 # WeatherAppRainmeter
 A simple Rainmeter weather app that displays the time, date, and weather in your configured area in your configured color over any open applications. Useful for multi-screen users.<br />
+![alt text](https://github.com/chomeier/WeatherAppRainmeter/blob/master/WeatherAppPicture.PNG)
 Instructions for new users:<br />
 Download Rainmeter<br />
 Download TimeDateWeatherMin_1.0.rmskin<br />
@@ -18,4 +19,3 @@ Under [MeterTime], [MeterTemp], [MeterDate], find FontColor<br />
 Change 255,255,0 to any color you want in all three section (unless you want your app multicolored)<br />
 -Note: 255,255,0 represents yellow in RGB, to find your custom color google RGB color picker<br />
 That's it!<br />
-![alt text](https://github.com/chomeier/WeatherAppRainmeter/blob/master/WeatherAppPicture.PNG)
