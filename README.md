@@ -1,6 +1,6 @@
 # WeatherAppRainmeter
 A simple Rainmeter weather app that displays the time, date, and weather in your configured area in your configured color over any open applications. Useful for multi-screen users.<br />
-![alt text](https://github.com/chomeier/WeatherAppRainmeter/blob/master/WeatherAppPicture.PNG)
+![alt text](https://github.com/chomeier/WeatherAppRainmeter/blob/master/WeatherAppPicture.PNG)<br />
 Instructions for new users:<br />
 Download Rainmeter<br />
 Download TimeDateWeatherMin_1.0.rmskin<br />
