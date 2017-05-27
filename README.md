@@ -18,5 +18,5 @@ Replace 00000 with your zipcode<br />
 Under [MeterTime], [MeterTemp], [MeterDate], find FontColor<br />
 Change 255,255,0 to any color you want in all three section (unless you want your app multicolored)<br />
 -Note: 255,255,0 represents yellow in RGB, to find your custom color google RGB color picker<br />
-Right click the app and click refresh skin (make sure to right click a letter/number)
+Right click the app and click refresh skin (make sure to right click a letter/number)<br />
 That's it!<br />
